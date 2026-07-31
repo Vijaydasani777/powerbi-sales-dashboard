@@ -16,7 +16,11 @@ This project is an interactive Power BI dashboard designed to analyze sales perf
 - Data Cleaning & Transformation
 
 ## 📸 Dashboard Preview
-![Dashboard](<img width="959" height="494" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/2b330c0e-b343-4f03-a7d5-af36a9e04054" />)
+![Dashboard] (<img width="1002" height="507" alt="blinkit anaysis" src="https://github.com/user-attachments/assets/4cbf8d71-09d7-429b-a698-1bdc5c16d177" /
+)
+
+
+
 
 
 ## 📂 Files Included
